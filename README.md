@@ -21,11 +21,14 @@
 
 
 
--    I’m currently learning Flutter.
+-    🌱 I’m currently learning FLUTTER Development.
 -    looking to collaborate with other content creators.
 -    You can shoot me an email at danieladel217@gmail.com! I'll try to respond as soon as I can.
 -    I'm very love programming 🖤
 -    I'm currently learning in the EELU university.
+-    ⚡ Fun fact always learning
+
+
 <br>
 <!-- -->
 <p  align="center">
